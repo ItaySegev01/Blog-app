@@ -2,7 +2,11 @@
 
 This is a Blog like app Built on Next.js 13 using TypeScript 
 
-To run the use command: **npm run build**
+To run the use commands: 
+
+**npm i**
+
+**npm run build**
 
 Enjoy the Code
 
